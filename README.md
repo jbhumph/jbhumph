@@ -13,7 +13,7 @@ Please check out the code for a number of my pinned projects below. Additionally
 - [To-Do List](https://jbhumph.github.io/to-do-list/) - A to-do list application utilizing Node.js & WebPack
 - [Calculator](https://jbhumph.github.io/calculator/) - A calculator application utilizing vanilla JS, CSS, HTML
 - [Etch-A-Sketch](https://jbhumph.github.io/etch-a-sketch/) - A multi-colored drawing program with a variable resolution
-- [Rock, Paper, Scissors](https://jbhumph.github.io/rock-paper/) - The classic game brought to life with JS, CSS, HTML
+- [Rock, Paper, Scissors](https://jbhumph.github.io/rock-paper-scissors/) - The classic game brought to life with JS, CSS, HTML
 
 <!---
 jbhumph/jbhumph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
