@@ -10,6 +10,7 @@ I’m looking to collaborate on moderate sized and beginner friendly projects, p
 PORTFOLIO:<br>
 Please check out the code for a number of my pinned projects below. Additionally, several web based projects are deployed and are viewable at the following:
 
+- [Weather Compare](https://jbhumph.github.io/weather_app/) - A weather comparison application using multiple web API's, Node.js, and WebPack
 - [To-Do List](https://jbhumph.github.io/to-do-list/) - A to-do list application utilizing Node.js & WebPack
 - [Calculator](https://jbhumph.github.io/calculator/) - A calculator application utilizing vanilla JS, CSS, HTML
 - [Etch-A-Sketch](https://jbhumph.github.io/etch-a-sketch/) - A multi-colored drawing program with a variable resolution
