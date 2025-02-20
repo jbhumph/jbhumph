@@ -21,7 +21,13 @@ Please check out the code for a number of my pinned projects below. Additionally
 ### Java Projects:
 
 - [Snake Game](https://github.com/jbhumph/snakeGame) - A basic game of Snake with UI in Swing
-- [Docu-Scan](https://github.com/jbhumph/snakeGame) - A batch .txt doc scanner that analyzes and compares data via a custom binary tree and prints to new file
+- [Docu-Scan](https://github.com/jbhumph/dictionary) - A batch .txt doc scanner that analyzes and compares data via a custom binary tree and prints to new file
+
+### Other Projects, Experiments, and Studies:
+
+- [Simple Converter](https://github.com/jbhumph/simple-converter) - An iOS application that converts between various units of measurement using Swift / Swift UI
+- [Flight Booker](https://github.com/jbhumph/flight_booker) - A flight booking simulator as a platform for exploring priority queues and pointers in C
+- [Pascal's Triangle](https://github.com/jbhumph/triangle) - An initial exploration into pointers and recursion in C
 
 <!---
 jbhumph/jbhumph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
