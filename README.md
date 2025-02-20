@@ -1,4 +1,4 @@
-Hi, I’m John
+# Hi, I’m John
 
 ABOUT ME:<br>
 I’m currently in school pursuing a bachelors in computer science. I've previously completed Harvard's CS50 and am now working through the Odin Project's Javascript Pathway and Kaggle's Introduction to Machine Learning. I am an officer in the school's WiCyS cybersecurity club, a member of the school robotics club, and working with the school to form an official programming club. I also participate in various cybersecurity competitions with the school team such as the Collegiate Cyber Defense Competition. I'm spending whatever free time I have left dabbling in Python, microcontrollers, and exploring experimental visualization and signal processesing with Max MSP, Touchdesigner & Juce.
