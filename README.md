@@ -13,6 +13,7 @@ Please check out the code for a number of my pinned projects below. Additionally
 ### Deployed Web Projects:
 
 - [State Temperature Graph](https://avg-temp-a27676261ea1.herokuapp.com/) - WebApp that visualizes any states temperature averages via REST API against a global average using Python / Flask and deployed on Heroku
+- [Memory Card Wizard](https://memory-wizard-a2bb1920b02e.herokuapp.com/) - WebApp game using React and Giphy REST API. Hosted on Heroku via Node.Js
 - [Weather Compare](https://jbhumph.github.io/weather_app/) - A weather comparison application using multiple REST API's, Node.js, and WebPack
 - [To-Do List](https://jbhumph.github.io/to-do-list/) - A to-do list application utilizing Node.js & WebPack
 - [Calculator](https://jbhumph.github.io/calculator/) - A calculator application utilizing vanilla JS, CSS, HTML
