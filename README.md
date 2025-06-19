@@ -29,6 +29,7 @@ Please check out the code for a number of my pinned projects below. Additionally
 ### Other Projects, Experiments, and Studies:
 
 - [Pathfinding Visualizer](https://github.com/jbhumph/pathfinding) - Cross Platform GUI app that visualizes traversing a graph data structure with different algorithms (Breadth-First, Dijkstra, etc) using C# with Avalonia
+- [Mazes Game](https://github.com/jbhumph/mazes) - Simple maze game with title screen and main level. Made in Godot with team as part of game jam.
 - [Simple Converter](https://github.com/jbhumph/simple-converter) - An iOS application that converts between various units of measurement using Swift / Swift UI
 - [Flight Booker](https://github.com/jbhumph/flight_booker) - A flight booking simulator as a platform for exploring priority queues and pointers in C
 - [Pascal's Triangle](https://github.com/jbhumph/triangle) - An initial exploration into pointers and recursion in C
