@@ -10,6 +10,10 @@ I’m looking to collaborate on moderate sized and beginner friendly projects, p
 ## PORTFOLIO:<br>
 Please check out the code for a number of my pinned projects below. Additionally, several web based projects are deployed and are viewable at the following:
 
+### Steganography Application:
+
+- [Stega-Pal](https://github.com/jbhumph/stega_pal) - A GUI application written utilizing Python and PySide 6 and utilizing libraries such as Pillow, cryptography, etc. Provides steganography encoding and decoding services. Currently in MVP form with working image encoding / decoding using LSB method and options for bit planes, channel selection, cryptography. Many more features coming soon!
+
 ### Deployed Web Projects:
 
 - [State Temperature Graph](https://avg-temp-a27676261ea1.herokuapp.com/) - WebApp that visualizes any states temperature averages via REST API against a global average using Python / Flask and deployed on Heroku
